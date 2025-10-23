@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!-- Profile badges, visitor count, or social icons can go here for extra flair -->
 
 <h1 align="center">Hi, I'm Jewel 👋</h1>
 <p align="center">
@@ -8,7 +5,7 @@
 </p>
 
 ---
-I'm Jewel. When I’m not debugging code at 2am, I’m building projects, hacking away at DSA, or sleeping :P  
+When I’m not debugging code at 2am, I’m building projects, hacking away at DSA, or sleeping :P  
 **Languages:** C++, Python, Java, SQL, and occasionally JavaScript  
 **Tech:** Flask, TensorFlow, PyTorch, Streamlit, Tableau, MongoDB
 
