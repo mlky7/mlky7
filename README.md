@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**mlky7/mlky7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile badges, visitor count, or social icons can go here for extra flair -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Jewel 👋</h1>
+<p align="center">
+   ML Enthusiast | 💻 CS Student | 🌏 Music Autist 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+I'm Jewel. When I’m not debugging code at 2am, I’m building projects, hacking away at DSA, or sleeping :P  
+**Languages:** C++, Python, Java, SQL, and occasionally JavaScript  
+**Tech:** Flask, TensorFlow, PyTorch, Streamlit, Tableau, MongoDB
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlky7&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlky7&layout=compact&theme=radical)
+
+<!-- Add more flair: badges, icons, memes, github streaks, etc. -->
+
