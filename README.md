@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Jewel 👋</h1>
 <p align="center">
-   ML Enthusiast | 💻 CS Student | 🌏 Music Autist 
+   ML Enthusiast | CS Student | Music Autist 
 </p>
 
 ---
