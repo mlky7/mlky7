@@ -6,11 +6,11 @@
 
 ---
 When I’m not debugging code at 2am, I’m building projects, hacking away at DSA, or sleeping :P  
-**Languages:** C++, Python, Java, SQL, and occasionally JavaScript  
+**Languages:** C++, Python, Java, SQL, JavaScript  
 **Tech:** Flask, TensorFlow, PyTorch, Streamlit, Tableau, MongoDB
+**CyberSec Tools**: Linux, Wireshark, Nmap, Nessus, Burp Suite, Splunk, Elastic Stack
 
 ---
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlky7&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlky7&layout=compact&theme=radical)
 
